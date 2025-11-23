@@ -1,0 +1,1 @@
+stow -d ~/Projects/hyprland-testing-1/ -t ~/ dotfiles
